@@ -1,0 +1,22 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5907
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 12. Your function must always return an int value
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    40
+    Correct output:
+    40
+
+    Your code output:
+    I don't know :(
+  time: Tue, 08 Sep 2020 10:58:45 UTC
+record: -1
